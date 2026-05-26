@@ -6,7 +6,6 @@ This repository contains my hands-on work in **RTL design using Verilog**, focus
 
 ## 🛠 Tools Used
 
-- **Xilinx Vivado** - Synthesis and Simulation
 - **Icarus Verilog** – Compilation & Simulation  
 - **GTKWave** – Waveform Analysis  
 - **VS Code** – Development Environment  
