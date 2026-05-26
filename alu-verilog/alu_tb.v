@@ -26,5 +26,9 @@ initial begin
 
     $stop;
 end
+    initial begin
+        $monitor("Time=%0t | a=%d b=%d sel=%b | y=%d", $time, a, b, sel, y);
+    end
+
 
 endmodule
