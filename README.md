@@ -53,22 +53,6 @@ This repository contains my hands-on work in **RTL design using Verilog**, focus
 
 ---
 
-### 🔹 4-bit ALU 
-📁 `rtl/alu.v`, `tb/alu_tb.v`  
-- Supports arithmetic and logical operations  
-- Combinational design using case statements  
-- Will be fully verified using testbench  
-
----
-
-### 🔹 FSM Sequence Detector
-📁 `rtl/fsm_seq_detector.v`, `tb/fsm_tb.v`  
-- Detects sequence **"101"**  
-- Sequential logic using finite state machine  
-- Verified through waveform-based analysis  
-
----
-
 ## ▶ How to Simulate
 
 ### Example: Mod-N Counter
